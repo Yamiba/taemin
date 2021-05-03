@@ -1,0 +1,10 @@
+
+  body{
+  text-align:center;
+  background-color:gray;
+}
+h1{
+  border-bottom: 3px solid black;
+  padding:10px;
+  margin:30px;
+}
